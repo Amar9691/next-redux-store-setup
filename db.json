@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Test",
+      "author": "Amar",
+      "id": 2
+    },
+    {
+      "title": "Test",
+      "author": "Amar",
+      "id": 3
+    },
+    {
+      "title": "Updated Post new",
+      "author": "Amar update",
+      "id": 4
+    },
+    {
+      "title": "Test",
+      "author": "Amar",
+      "id": 5
+    },
+    {
+      "title": "Test",
+      "author": "Amar",
+      "id": 6
+    },
+    {
+      "title": "Test",
+      "author": "Amar",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 2,
+      "name": "Amar kumar",
+      "email": "amarkumar@test.com",
+      "status": true
+    }
+  ]
+}
